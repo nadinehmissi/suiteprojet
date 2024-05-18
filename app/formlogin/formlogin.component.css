@@ -1,0 +1,258 @@
+.connecter-1 {
+    position: relative;
+    width: 1440px;
+    height: 1276px;
+    margin: 0 0 0 28px;
+    font-size: 0px;
+    background: #ffffff;
+    overflow: hidden;
+  }
+  .se-connecter {
+    display: block;
+    position: relative;
+    height: 49px;
+    margin: 210px 0 0 582px;
+    color: #000000;
+    font-family: Montserrat, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 48.76px;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 54;
+  }
+  .nom-utilisateur-champ {
+    position: relative;
+    width: 406px;
+    height: 78px;
+    margin: 56px 0 0 519px;
+    font-size: 0px;
+    z-index: 47;
+    overflow: visible auto;
+    border-radius: 10px;
+  }
+  .nom-utilisateur {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    width: 138px;
+    height: 20px;
+    color: #000000;
+    font-family: Montserrat, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.504px;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 48;
+  }
+  #rectangle {
+    position: relative;
+    width: 403px;
+    height: 50px;
+    margin: 9px 0 0 0;
+    background: #ffffff;
+    border: 1px solid #9f9f9f;
+    z-index: 53;
+    border-radius: 10px;
+  }
+  .group {
+    position: relative;
+    width: 403px;
+    height: 79px;
+    margin: 36px 0 0 522px;
+    z-index: 50;
+    border-radius: 10px;
+  }
+  .mot-de-passe-champ {
+    position: absolute;
+    width: 403px;
+    height: 79px;
+    top: 0;
+    left: 0;
+    font-size: 0px;
+    z-index: 51;
+    border-radius: 10px;
+  }
+  .mot-de-passe {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    width: 125.383px;
+    height: 20px;
+    margin: 0 0 0 1px;
+    color: #000000;
+    font-family: Montserrat, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19.504px;
+    justify-content: center;
+    white-space: nowrap;
+    z-index: 52;
+  }
+  
+  #rectangle-2 {
+    position: relative;
+    width: 403px;
+    height: 50px;
+    margin: 9px 0 0 0;
+    background: #ffffff;
+    border: 1px solid #9f9f9f;
+    z-index: 53;
+    border-radius: 10px;
+  }
+  .mot-de-passe-oublier {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    position: relative;
+    width: 158px;
+    height: 17px;
+    margin: 35px 0 0 519px;
+    color: #919191;
+    font-family: Montserrat, var(--default-font-family);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 17px;
+    text-align: center;
+    text-decoration: underline;
+    white-space: nowrap;
+    z-index: 58;
+  }
+  .bouton-se-connecter {
+    position: relative;
+    width: 400px;
+    height: 50px;
+    margin: 22px 0 0 520px;
+    cursor: pointer;
+    font-size: 0px;
+    background: transparent;
+    border: none;
+    z-index: 55;
+    overflow: visible auto;
+    border-radius: 10px;
+  }
+  .seconnecter {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    width: 139px;
+    height: 24px;
+    margin: 4px 0 0 130px;
+    color: #ffffff;
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    text-align: center;
+    white-space: nowrap;
+    z-index: 57;
+  }
+  .rectangle-4 {
+    position: absolute;
+    width: 400px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background: #bf8c60;
+    z-index: 56;
+    border-radius: 10px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+  }
+  .bouton-se-connecter-avec-google {
+    position: relative;
+    width: 401px;
+    height: 50px;
+    margin: 24px 0 0 519px;
+    cursor: pointer;
+    background: transparent;
+    border: none;
+    z-index: 59;
+  }
+  .rectangle-5 {
+    position: absolute;
+    width: 401px;
+    height: 50px;
+    top: 0;
+    left: 0;
+    background: rgba(234, 69, 76, 0);
+    border: 1px solid rgba(0, 0, 0, 0.25);
+    z-index: 60;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px 0 rgba(0, 0, 0, 0.25);
+  }
+  .google-icone {
+    position: absolute;
+    width: 21px;
+    height: 21px;
+    top: 13px;
+    left: 81px;
+    background-image: url("search.png");
+    background-repeat:no-repeat center;
+    background-size: cover;
+    z-index: 61;
+  }
+  .se-connecter-avec-google {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    position: absolute;
+    width: 213px;
+    height: 22px;
+    top: 16px;
+    left: 111.869px;
+    color: #000000;
+    font-family: Raleway, var(--default-font-family);
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.436px;
+    text-align: center;
+    white-space: nowrap;
+    letter-spacing: 0.42px;
+    z-index: 62;
+  }
+  .vous-n-avez-pas-connecter {
+    position: relative;
+    width: 247px;
+    height: 24px;
+    margin: 12px 0 0 597px;
+    z-index: 63;
+  }
+  .vous-n-avez-pas-de-compte {
+    position: absolute;
+    width: 247px;
+    height: 24px;
+    top: 0;
+    left: 0;
+    font-family: Poppins, var(--default-font-family);
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.3px;
+    z-index: 64;
+  }
+  .motdepasse{
+    position: relative;
+    color: #626263;
+    font-family: Montserrat, var(--default-font-family);
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.3px;
+  }
+  .inscrivez-vous-gratuitement-6 {
+    position: relative;
+    color: #bf8c60;
+    font-family: Montserrat, var(--default-font-family);
+    font-size: 10px;
+    font-weight: 500;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 0.3px;
+  }
